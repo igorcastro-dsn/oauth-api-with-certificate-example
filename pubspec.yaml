@@ -1,0 +1,11 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.3
+  oauth2: ^2.0.1
+  crypto: ^3.0.1
+  convert: ^3.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
